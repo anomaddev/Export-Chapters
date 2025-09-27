@@ -1,6 +1,6 @@
 [project]
 name = "export-chapters"
-version = "0.1.4"
+version = "0.1.5"
 description = "Export MP4/MOV chapter markers into YouTube description-friendly text"
 readme = "README.md"
 requires-python = ">=3.8"
